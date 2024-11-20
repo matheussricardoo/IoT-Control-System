@@ -71,10 +71,10 @@ python src/cliente/cliente.py
 ### 👤 Author | Autor
 
 <div align="center">
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/matheussricardoo" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+ <a href="https://www.linkedin.com/in/matheus-ricardo-426452266/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </div>
