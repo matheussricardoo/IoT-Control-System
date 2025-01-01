@@ -44,7 +44,7 @@ typing: built-in
 
 ```bash
 # Clone the repository | Clone o repositório
-git clone https://github.com/seu-usuario/iot-control.git
+git clone https://github.com/matheussricardoo/iot-control.git
 
 # Navigate to project directory | Navegue até o diretório do projeto
 cd iot-control
