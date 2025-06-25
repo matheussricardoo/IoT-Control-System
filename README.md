@@ -1,5 +1,3 @@
-# IoT Control System
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FFD700&height=200&section=header&text=IoT%20Control&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Python%20|%20TCP/IP%20|%20Socket%20|%20JSON&descAlignY=60&descSize=18">
